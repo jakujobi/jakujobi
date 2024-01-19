@@ -1,6 +1,9 @@
+# Hi there 👋
+
+Number of profile views since 7pm Jan 18 2024 - 7pm
 ![My Profile Visitor Count](https://profile-counter.glitch.me/jakujobi/count.svg)
 
-### Hi there 👋
+
 
 <!--
 **jakujobi/jakujobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
