@@ -2,6 +2,9 @@
 
 ![Jakujobi Linkedin Cover](https://github.com/jakujobi/jakujobi/assets/106095092/b68f1a69-c4d7-41a2-ac69-972d2651b58b)
 
+[![John's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jakujobi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![John's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jakujobi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ## Profile views
 ![My Profile Visitor Count](https://profile-counter.glitch.me/jakujobi/count.svg)
 
