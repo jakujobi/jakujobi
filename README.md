@@ -1,3 +1,5 @@
+![My Profile Visitor Count](https://profile-counter.glitch.me/jakujobi/count.svg)
+
 ### Hi there 👋
 
 <!--
