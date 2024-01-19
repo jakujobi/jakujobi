@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Jakujobi Linkedin Cover](https://github.com/jakujobi/jakujobi/assets/106095092/b68f1a69-c4d7-41a2-ac69-972d2651b58b)
+
 ## Profile views
 ![My Profile Visitor Count](https://profile-counter.glitch.me/jakujobi/count.svg)
 
