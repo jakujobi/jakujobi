@@ -5,7 +5,7 @@
 ## Profile views
 ![My Profile Visitor Count](https://profile-counter.glitch.me/jakujobi/count.svg)
 
-Since 7pm Jan 18 2024 - 7pm
+Since 7pm, Jan 18, 2024
 
 ```Profile under construction 🏗️```
 
