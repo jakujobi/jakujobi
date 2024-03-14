@@ -12,8 +12,8 @@ Since 7pm, Jan 18, 2024
 <a href="https://github.com/jakujobi/BitBlaster_10bit_Processor">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jakujobi&show_icons=true" style="margin-right: 16px;"/>
 </a>
-<a href="https://github.com/jakujobi/CARPS)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakujobi&exclude_repo=habibit,Habifarm_Hackathon_Project&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/jakujobi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakujobi&exclude_repo=habibit,Kanj,Habifarm_Hackathon_Project&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
