@@ -13,9 +13,11 @@ With 10 years of work experience including starting and running a small business
 I have built 6 websites, codesigned 2 embedded systems including a 10bit Processor, created 2 desktop apps, published 11 GPTs and written 50 console programs. My career goal as a software engineer is to develop solutions for human and AI interaction and other systems surrounding the deployment of artificial intelligence.
 
 ### Hooman
-Outside classes and work, I love to play the banjolele, piano, guitar, and 12 other instruments (i'll like to learn more). I also cycling, grilling, and cooking recipes invented on the spot (sometimes ends up amazing, sometimes maybe not 😏😅)
+Outside classes and work, I love to play the banjolele, piano, guitar, and 12 other instruments (i'll like to learn more). I also enjoy cycling, grilling, and cooking recipes invented on the spot (sometimes ends up amazing, sometimes maybe not 😏😅)
+
+
 ### On a quest for an internship 2025 🔎
-Are you looking for an intern to contribute to your team? I would love to join you. View my [resume](https://jakujobi.notion.site/John-Akujobi-s-Resume-bf79a93e84014ef3880ab03c88664867?pvs=4), or send an [email](mailto:john@jakujobi.com).
+Are you looking for an intern to contribute to your team? I would love to join you. View my [resume](https://jakujobi.notion.site/John-Akujobi-s-Resume-bf79a93e84014ef3880ab03c88664867?pvs=4) or send an [email](mailto:john@jakujobi.com).
 
 
 ## Profile views
