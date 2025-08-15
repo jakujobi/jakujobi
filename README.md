@@ -16,8 +16,8 @@ I have built 6 websites, codesigned 2 embedded systems including a 10bit Process
 Outside classes and work, I love to play and improvise on the banjolele, piano, guitar, and 13 other instruments (i'll like to learn more). I also enjoy cycling, grilling, and cooking recipes invented on the spot (sometimes ends up amazing, sometimes maybe not 😏😅)
 
 
-### On a quest for an internship 2025 Summer & Fall🔎
-Are you looking for an intern to contribute to your team? I would love to join you. View my [resume](https://jakujobi.notion.site/John-Akujobi-s-Resume-bf79a93e84014ef3880ab03c88664867?pvs=4) or send an [email](mailto:john@jakujobi.com).
+### Would you like to work together?
+View my [resume](https://jakujobi.notion.site/John-Akujobi-s-Resume-bf79a93e84014ef3880ab03c88664867?pvs=4) or send an [email](mailto:john@jakujobi.com).
 
 
 ## Profile views Tracker
