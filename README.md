@@ -30,5 +30,5 @@ Since 7pm, Jan 18, 2024
 </a>
 
 <a href="https://github.com/jakujobi">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakujobi&exclude_repo=habibit,jakujobi.github.io,hub.jakujobi.com,Jakujobi-Hub,Kanj,Habifarm_Hackathon_Project&hide=HTML&layout=compact&langs_count=20&card_width=400" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakujobi&exclude_repo=habibit,Arqer,jakujobi.github.io,hub.jakujobi.com,Jakujobi-Hub,Kanj,Habifarm_Hackathon_Project&hide=HTML&layout=compact&langs_count=20&card_width=400" />
 </a>
