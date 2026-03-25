@@ -1,7 +1,7 @@
 # Hi there👋🏾
 ![Jakujobi Linkedin Cover](https://github.com/jakujobi/jakujobi/assets/106095092/b68f1a69-c4d7-41a2-ac69-972d2651b58b)
 ### Student
-I'm a Computer Science Senior at South Dakota State University with minors in Mathematics and Software Engineering and on the deans list for 4 semesters at the Jerome J Lohr College of Engineering.
+I'm a Computer Science Senior at South Dakota State University with minors in Software Engineering and on the deans list for 4 semesters at the Jerome J Lohr College of Engineering.
 I lead the Association of Computing Machinery (ACM club) at SDSU, previously as secretary, CSC tutor, Hackathon Marketing Manager, Vice-President and now as the President.
 
 I have also participated in 2 hackathons, co-organized a hackathon on our campus, and led 3 workshops, including an AI training for staff.
